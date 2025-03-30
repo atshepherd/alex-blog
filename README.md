@@ -1,0 +1,1 @@
+Creating a blog to document my journey of relearning to code. The goal with this project is to become more comfortable with the skills I am learning by practicing them on a project of my own creation, and also to creatively write about my process of relearning to code.
